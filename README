@@ -1,0 +1,23 @@
+This is Countdown version 1.0
+=============================
+
+Countdown is a simple program to tell you days from the deadline.
+
+
+How to Use
+==========
+
+To use this program, you should install Python, and tkinter module
+should be available. This program is written in Python 3.3.2.
+
+When you use this program, you just need to fill deadline and event
+in line 5 and line 6 in the script file, and let this script file 
+run automatically at boot.
+
+
+** Windows **
+If you use Windows, you should change script file's name's suffix to
+"pyw", so that this program will not open a console window, which is 
+redundant.
+
+
