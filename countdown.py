@@ -28,7 +28,6 @@ class Countdown(tk.Frame):
                 (screen_width-win_width)//2,(screen_height-win_height)//2))
         self.mainloop()
 
-
     def createWidgets(self):
         today=datetime.date.today()
         remainder_days=(deadline-today).days
