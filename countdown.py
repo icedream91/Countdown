@@ -8,7 +8,6 @@ event='school' # fill event here
 
 class Countdown(tk.Frame):
 
-
     def __init__(self):
         self.master=tk.Tk()
         tk.Frame.__init__(self,self.master)
